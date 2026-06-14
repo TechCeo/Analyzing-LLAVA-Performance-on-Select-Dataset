@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib opencv-python pillow scikit-learn transforme
    jupyter lab
    ```
 
-4. Open `LlavamodelDL.ipynb` as the primary analysis notebook.
+4. Open `llava_performance_analysis.ipynb` as the primary analysis notebook.
 5. Update file paths in the notebook if needed to point to your local dataset or model files.
 
 ### Notes on paths and environment
